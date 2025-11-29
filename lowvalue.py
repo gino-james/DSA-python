@@ -1,5 +1,4 @@
 class Node:
-    x = []
 
     def __init__(self, data):
         self.data = data
